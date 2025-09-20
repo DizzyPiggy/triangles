@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\triangles\triangles\bin\Debug\net7.0\triangles.exe
+C:\Users\Student\source\repos\triangles\triangles\bin\Debug\net7.0\triangles.deps.json
+C:\Users\Student\source\repos\triangles\triangles\bin\Debug\net7.0\triangles.runtimeconfig.json
+C:\Users\Student\source\repos\triangles\triangles\bin\Debug\net7.0\triangles.dll
+C:\Users\Student\source\repos\triangles\triangles\bin\Debug\net7.0\triangles.pdb
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.AssemblyInfo.cs
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.dll
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\refint\triangles.dll
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.pdb
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\triangles.genruntimeconfig.cache
+C:\Users\Student\source\repos\triangles\triangles\obj\Debug\net7.0\ref\triangles.dll
